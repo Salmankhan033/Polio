@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659267142061",
+    "project_id": "polio-20bf6",
+    "storage_bucket": "polio-20bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659267142061:android:6d9b66c460f17fcf042124",
+        "android_client_info": {
+          "package_name": "com.taif.polio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659267142061-qoae6q6qpeklmmb77uslcpjgnhna4r6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyEPGgwyrirBYX5LtNAoWVg6t_DCLYK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659267142061-qoae6q6qpeklmmb77uslcpjgnhna4r6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

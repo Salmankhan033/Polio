@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Polio</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    //Navigation Drawer
+    <string name="menu_home">Home</string>
+    <string name="menu_active_jobs">Active Jobs</string>
+    <string name="menu_jobs_history">Jobs History</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_my_profile">My Profile</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_logout">Logout</string>
+    <string-array name="spin_array">
+        <item>Customer</item>
+        <item>Electrician</item>
+        <item>Plumber</item>
+        <item>Painter</item>
+        <item>Carpenter</item>
+        <item>Meestry</item>
+        <item>Labour</item>
+        <item>Mechanic</item>
+
+    </string-array>
+
+
+</resources>
